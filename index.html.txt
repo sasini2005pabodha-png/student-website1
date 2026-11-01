@@ -46,6 +46,13 @@
      <li>Project 2</li> 
      <li>Project 3</li> 
     </ul> 
+
+    <h2>My Hobbies</h2> 
+    <ul> 
+        <li>Hobby 2</li> 
+        <li>Hobby 3</li> 
+        <li>Hobby 1</li> 
+    </ul> 
  
 </body> 
 </html> 

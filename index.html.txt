@@ -53,6 +53,12 @@
         <li>Hobby 3</li> 
         <li>Hobby 1</li> 
     </ul> 
+
+    <h2>My Achievements</h2> 
+    <ul> 
+        <li>Achievement 1</li> 
+        <li>Achievement 2</li> 
+    </ul> 
  
 </body> 
 </html> 

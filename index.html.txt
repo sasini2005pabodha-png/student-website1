@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>My Personal Website</title> 
+</head> 
+<body> 
+<h1>Your Name</h1> 
+    <p> 
+        Write a short introduction about yourself. 
+    </p> 
+ 
+    <h2>My Interests</h2> 
+ 
+    <ul> 
+        <li>Interest 1</li> 
+        <li>Interest 2</li> 
+        <li>Interest 3</li> 
+    </ul> 
+ 
+    <h2>My Goals</h2> 
+ 
+    <p> 
+        Write a few sentences about your personal or academic goals. 
+    </p> 
+ 
+</body> 
+</html> 

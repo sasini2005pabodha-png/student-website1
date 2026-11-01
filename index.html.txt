@@ -26,6 +26,11 @@
     <h2>My Education</h2> 
     <p> 
     Write information about your education. 
+    </p> 
+
+    <h2>Contact</h2> 
+    <p> 
+    Email: your-email@example.com 
     </p>  
  
 </body> 
